@@ -36,6 +36,13 @@ header .logo{
     color: blueviolet;
 }
 
+header .logoprincipal{
+    margin: 0;
+    padding: 0px 35px;
+}
+
+
+
 header .container{
     display: flex;
     flex-direction: column;
